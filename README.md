@@ -1,18 +1,7 @@
-## Getting Started
+## Funções do iPhone 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao meu repositório das funções do iPhone 1, nesse repositório eu reproduzi as funcionalidades de Telefone, Navegador e Reprodutor Musical que o iPhone 1 trouxe ao mundo dos smartphones, o principal objetivo de recriar esses sistemas é fixar meu conhecimento ao paradigma de programação orientada à objetos (POO), espero que goste e qualquer dúvida ou modificação, é só abrir uma issue.
 
-## Folder Structure
+## Estrutura
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Esse projeto possui 3 pacotes e 1 classe usuário, cada pacote possui a sua funcionalidade especificada conforme o seu nome, dentro dela há o arquivo com a classe, construtores, getters e setters e métodos a serem feitos, por fim, a classe usuário é onde se reúne toda a interpretação da interação do usuário com essas classes, simulando o seu uso com um iPhone 1 real.
