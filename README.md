@@ -1,6 +1,6 @@
 ## Funções do iPhone 1
 
-Bem-vindo ao meu repositório das funções do iPhone 1, nesse repositório eu reproduzi as funcionalidades de Telefone, Navegador e Reprodutor Musical que o iPhone 1 trouxe ao mundo dos smartphones, o principal objetivo de recriar esses sistemas é fixar meu conhecimento ao paradigma de programação orientada à objetos (POO), espero que goste e qualquer dúvida ou modificação, é só abrir uma issue.
+Bem-vindo ao meu repositório das funções do iPhone 1, nesse repositório eu reproduzi as funcionalidades de Telefone, Navegador e Reprodutor Musical que o iPhone 1 trouxe ao mundo dos smartphones, o principal objetivo de recriar esses sistemas é fixar meu conhecimento ao paradigma de programação orientada à objetos (POO) usando Java, espero que goste e qualquer dúvida ou modificação, é só abrir uma issue.
 
 ## Estrutura
 
